@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 金剛壽命陀羅尼念誦法
+#+DATE: 2015-08-30 20:30:42.992565
+#+PROPERTY: JUAN 0
