@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:30:43.844768
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 10:56
 #+TITLE: 金剛壽命陀羅尼念誦法
 #+PROPERTY: CBETA_ID T20n1133
 #+PROPERTY: ID KR6j0348
