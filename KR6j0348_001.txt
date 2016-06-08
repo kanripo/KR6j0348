@@ -1,24 +1,21 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:30:42.804791
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 10:56
 #+TITLE: 金剛壽命陀羅尼念誦法
 #+PROPERTY: CBETA_ID T20n1133
 #+PROPERTY: ID KR6j0348
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 20, No. 1133
 #+PROPERTY: VOL 20
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6j0348_T_000-0575a>¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6j0348_T_001-0575a> ¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.1133[cf.No.1134]¶
-
- 金剛壽命陀羅尼念誦法¶
+No. 1133 [cf. No. 1134]¶
+金剛壽命陀羅尼念誦法¶
 ¶
-開府儀同三司特進試鴻臚卿肅國¶
-公食邑三千戶賜紫贈司空諡大鑒¶
-正號大廣智大興善寺三藏沙門¶
+開府儀同三司特進試鴻臚卿肅國公食邑三千戶賜紫贈司空諡大鑒正號大廣智大興善寺三藏沙門¶
 不空奉　詔譯¶
 
 我今依金剛頂瑜伽經。毘盧遮那報身佛。於¶
